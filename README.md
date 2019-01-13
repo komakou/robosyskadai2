@@ -14,8 +14,6 @@ $ rosrun mypkg twice.py
 ```
 $ roslaunch mypkg mypkg.launch 
 ```
-```
-http://ラズパイのIPアドレス:8000で見ることができる．
-```
+http://ラズパイのIPアドレス:8000で見ることが可能
 ## youtube
   https://youtu.be/T8DETCCRXIQ
