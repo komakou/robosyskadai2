@@ -10,6 +10,10 @@ $ roscore
 $ rosrun mypkg count.py　
 $ rosrun mypkg twice.py
 ```
+プログラムを動かす際にtmuxを使用しています．
+```
+$ sudo apt install tmux
+```
 ## 実行
 ```
 $ roslaunch mypkg mypkg.launch 
